@@ -1,6 +1,6 @@
 ### Hi there, my name is Ilya 👋
 
-## I'm a Son, Bachelor of Engineering, Developer, and Designer!
+## I'm a Bachelor of Engineering, Software Developer, and Designer!
 - 🔭 I’m currently working at Avrora Holding!
 - 🌱 I’m currently learning everything that I interested in 🤣
 - 👯 I’m looking for chance to join a great team of professionals that loves software development as I do
