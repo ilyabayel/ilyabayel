@@ -11,7 +11,8 @@
 
 [<img align="left" alt="ilyakozlovdev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_ilyakozlov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<a href="mailto:ilya@kozlov.dev"><img align="left" alt="ilya@kozlov.dev | Mail" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/mail-1138-827052.png" /></a>]
+<a href="mailto:ilya@kozlov.dev"><img align="left" alt="ilya@kozlov.dev | Mail" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/mail-1138-827052.png" /></a>
+
 <br />
 
 ### Languages and Tools:
