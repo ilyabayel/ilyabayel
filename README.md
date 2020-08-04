@@ -1,16 +1,17 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, my name is Ilya 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Son, Bachelor of Engineering, Developer, and Designer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning everything that I interested in 🤣
+- 👯 I’m looking for chance to join a great team of professionals that loves software development as I do
+- 🥅 2020 Goals: Contribute my first Open Source project
+- ⚡ Fun fact: I love to sing and play guitar / ukuklele
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ilyakozlovdev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="_ilyakozlov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ilya@kozlov.dev | Mail" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/mail-1138-827052.png" />][email]
 
 <br />
 
@@ -40,3 +41,4 @@
 
 [instagram]: https://instagram.com/_ilyakozlov
 [linkedin]: https://linkedin.com/in/ilyakozlovdev
+[email]: ilya@kozlov.dev
