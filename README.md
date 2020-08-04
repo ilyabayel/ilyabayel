@@ -2,7 +2,7 @@
 
 ## I'm a Future Master of Engineering, Software Developer, and Designer!
 - 🔭 I’m currently working at Avrora Holding!
-- 🌱 I’m currently learning everything that I interested in 🤣
+- 🌱 I’m currently learning literally everything about Frontend and Mobile development
 - 👯 I’m looking for chance to join a great team of professionals that loves software development as I do
 - 🥅 2020 Goals: Contribute my first Open Source project
 - ⚡ Fun fact: I love to sing and play guitar / ukuklele
