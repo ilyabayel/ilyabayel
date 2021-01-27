@@ -41,6 +41,9 @@
 <a href="https://nodejs.org/en/">
   <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </a>
+<a href="https://nestjs.com">
+  <img align="left" alt="Nest.js" width="26px" src="https://cdn.cybrhome.com/media/website/live/icon/icon_nestjs.com_f1a96b.png" />
+</a>
 <a href="https://www.mongodb.com">
   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </a>
