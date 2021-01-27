@@ -4,8 +4,7 @@
 - 🔭 I’m currently working at AflaBank!
 - 🌱 I’m currently learning literally everything about Frontend and Mobile development
 - 👯 I’m looking for chance to join a great team of professionals who loves software development as I do
-- 🥅 2020 Goals: Contribute my first Open Source project
-- ⚡ Fun fact: I love to sing and play guitar
+- ⚡ Random fact: I love to sing and play guitar
 
 ### Connect with me:
 
