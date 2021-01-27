@@ -28,20 +28,16 @@
 <a href="https://vuejs.org">
   <img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
 </a>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<a href="https://golang.org">
+  <img align="left" alt="Golang" width="26px" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" />
+</a>
+
 
 <br />
 <br />
 
 ### Extra skills:
 
-<a href="https://dart.dev">
-  <img align="left" alt="Node.js" width="26px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" />
-</a>
-<a href="https://flutter.dev">
-  <img align="left" alt="MongoDB" width="26px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />
-</a>
 <a href="https://nodejs.org/en/">
   <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </a>
