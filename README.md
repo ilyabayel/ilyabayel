@@ -25,7 +25,7 @@
   <img align="left" alt="Golang" width="26px" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" />
 </a>
 <a href="https://reactjs.or/">
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
 </a>
 <a href="https://vuejs.org">
   <img align="left" alt="React" width="26px" src="https://vuejs.org/images/logo.png" />
