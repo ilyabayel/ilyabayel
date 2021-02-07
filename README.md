@@ -2,7 +2,7 @@
 
 ## I'm a Future Master of Engineering, Software Developer and Designer!
 - 👨‍💻 I’m currently working at AflaBank!
-- 📚 I’m currently learning literally everything about Programming & Software Engineering
+- 📚 I learn everything about Programming & Software Engineering
 - ⚡ Random fact: I love to sing and play guitar
 
 ### Connect with me:
