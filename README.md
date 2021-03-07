@@ -20,9 +20,6 @@
 <a href="https://www.typescriptlang.org">
   <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 </a>
-<a href="https://golang.org">
-  <img align="left" alt="Golang" width="26px" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" />
-</a>
 <a href="https://reactjs.or/">
   <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
 </a>
@@ -44,6 +41,9 @@
 </a>
 <a href="https://www.mongodb.com">
   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+</a>
+<a href="https://golang.org">
+  <img align="left" alt="Golang" width="26px" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" />
 </a>
 
 <br />
