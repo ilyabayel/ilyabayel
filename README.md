@@ -42,8 +42,8 @@
 <a href="https://www.mongodb.com">
   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </a>
-<a href="https://golang.org">
-  <img align="left" alt="Golang" width="26px" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" />
+<a href="https://www.rust-lang.org">
+  <img align="left" alt="Rust" width="26px" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" />
 </a>
 
 <br />
