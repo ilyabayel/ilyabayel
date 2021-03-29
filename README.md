@@ -57,16 +57,18 @@
 <a href="https://www.jetbrains.com">
   <img align="left" alt="JetBrains IntelliJ Idea Ultimate" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
 </a>
-<a href="https://github.com">
+<a href="https://git-scm.com">
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </a>
 <a href="https://developer.chrome.com/docs/devtools/">
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img align="left" alt="Chrome Devtools" width="26px" src="https://pbs.twimg.com/profile_images/762579160099385344/w5MfsnMn_400x400.jpg" />
 </a>
 <a href="https://www.mozilla.org/en-US/firefox/developer/?utm_source=firebug&utm_medium=lp&utm_campaign=switch&utm_content=landingpage">
-  <img align="left" alt="Git" width="26px" src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/developer/logo-word-hor-lg-high-res.a18e90a71b15.png" />
+  <img align="left" alt="Firefox for Developers" width="26px" 
+       src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/developer/logo-word-hor-lg-high-res.a18e90a71b15.png"
+  />
 </a>
-<a href="https://git-scm.com">
+<a href="https://github.com">
   <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </a>
 
