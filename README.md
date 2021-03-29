@@ -45,6 +45,12 @@
 <a href="https://www.rust-lang.org">
   <img align="left" alt="Rust" width="26px" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" />
 </a>
+<a href="https://flutter.dev">
+  <img align="left" alt="Rust" width="26px" src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" />
+</a>
+<a href="https://dart.dev">
+  <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" />
+</a>
 
 <br />
 <br />
