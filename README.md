@@ -65,7 +65,7 @@
 </a>
 <a href="https://www.mozilla.org/en-US/firefox/developer/?utm_source=firebug&utm_medium=lp&utm_campaign=switch&utm_content=landingpage">
   <img align="left" alt="Firefox for Developers" width="26px" 
-       src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/developer/logo-word-hor-lg-high-res.a18e90a71b15.png"
+       src="https://developer.mozilla.org/en-US/docs/Tools/logo-developer-quantum.png"
   />
 </a>
 <a href="https://github.com">
