@@ -7,24 +7,58 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ilyakozlovdev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="mailto:ilya@kozlov.dev"><img align="left" alt="ilya@kozlov.dev | Mail" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/mail-1138-827052.png" /></a>
+[<img align="left" style="height: 26px, width: 26px" alt="ilyakozlovdev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<a href="mailto:ilya@kozlov.dev">
+  <img 
+    align="left"
+    style="height: 26px, width: 26px"
+    alt="ilya@kozlov.dev | Mail"
+    src="https://cdn.iconscout.com/icon/free/png-512/mail-1138-827052.png" 
+  />
+</a>
 
 <br />
 
 ### Key skills:
 
 <a href="https://javascript.com">
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img 
+    align="left"
+    alt="JavaScript"
+    width="26px"
+    style="height: 26px, width: 26px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+  />
 </a>
 <a href="https://www.typescriptlang.org">
-  <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+  <img 
+    align="left" 
+    style="height: 26px, width: 26px" 
+    alt="JavaScript"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+  />
 </a>
-<a href="https://reactjs.or/">
-  <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
+<a href="https://reactjs.org">
+  <img 
+    align="left" 
+    style="height: 26px, width: 26px" 
+    alt="React"
+    src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"
+  />
+</a>
 </a>
 <a href="https://vuejs.org">
-  <img align="left" alt="React" width="26px" src="https://vuejs.org/images/logo.png" />
+  <img 
+    align="left" 
+    style="height: 26px, width: 26px" 
+    alt="React"
+    src="https://vuejs.org/images/logo.png"
+  />
+</a>
+
+<a href="https://vuejs.org">
+  <img align="left" style="height: 26px, width: 26px" alt="React" width="26px" src="https://vuejs.org/images/logo.png" />
 </a>
 
 
@@ -34,22 +68,22 @@
 ### Extra skills:
 
 <a href="https://nodejs.org/en/">
-  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img align="left" style="height: 26px, width: 26px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </a>
 <a href="https://nestjs.com">
-  <img align="left" alt="Nest.js" width="26px" src="https://cdn.cybrhome.com/media/website/live/icon/icon_nestjs.com_f1a96b.png" />
+  <img align="left" style="height: 26px, width: 26px" alt="Nest.js" width="26px" src="https://cdn.cybrhome.com/media/website/live/icon/icon_nestjs.com_f1a96b.png" />
 </a>
 <a href="https://www.mongodb.com">
-  <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+  <img align="left" style="height: 26px, width: 26px" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </a>
 <a href="https://www.rust-lang.org">
-  <img align="left" alt="Rust" width="26px" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" />
+  <img align="left" style="height: 26px, width: 26px" alt="Rust" width="26px" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" />
 </a>
 <a href="https://flutter.dev">
-  <img align="left" alt="Rust" width="26px" src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" />
+  <img align="left" style="height: 26px, width: 26px" alt="Rust" width="26px" src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" />
 </a>
 <a href="https://dart.dev">
-  <img align="left" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" />
+  <img align="left" style="height: 26px, width: 26px" alt="Rust" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" />
 </a>
 
 <br />
@@ -58,24 +92,24 @@
 ### Tools:
 
 <a href="https://code.visualstudio.com">
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" style="height: 26px, width: 26px" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a>
 <a href="https://www.jetbrains.com">
-  <img align="left" alt="JetBrains IntelliJ Idea Ultimate" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+  <img align="left" style="height: 26px, width: 26px" alt="JetBrains IntelliJ Idea Ultimate" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
 </a>
 <a href="https://git-scm.com">
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img align="left" style="height: 26px, width: 26px" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </a>
 <a href="https://developer.chrome.com/docs/devtools/">
-  <img align="left" alt="Chrome Devtools" width="26px" src="https://pbs.twimg.com/profile_images/762579160099385344/w5MfsnMn_400x400.jpg" />
+  <img align="left" \style="height: 26px, width: 26px" alt="Chrome Devtools" width="26px" src="https://pbs.twimg.com/profile_images/762579160099385344/w5MfsnMn_400x400.jpg" />
 </a>
 <a href="https://www.mozilla.org/en-US/firefox/developer/?utm_source=firebug&utm_medium=lp&utm_campaign=switch&utm_content=landingpage">
-  <img align="left" alt="Firefox for Developers" width="26px" 
+  <img align="left" style="height: 26px, width: 26px" alt="Firefox for Developers" width="26px" 
        src="https://developer.mozilla.org/en-US/docs/Tools/logo-developer-quantum.png"
   />
 </a>
 <a href="https://github.com">
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align="left" style="height: 26px, width: 26px" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </a>
 
 [instagram]: https://instagram.com/_ilyakozlov
