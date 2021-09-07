@@ -1,9 +1,9 @@
 ### Hi there, my name is Ilya 👋
 
-## I'm a Future Master of Engineering, Software Developer and Designer!
+## I'm a Master of Radio Engineering & Telecomunications and a software engineer!
 
-- 👨‍💻 I’m currently working at AflaBank!
-- 📚 I learn everything about Programming & Software Engineering
+- 👨‍💻 I currently work as a software engineer at Noveo!
+- 📚 Love learning programming languages
 - ⚡ Random fact: I love to sing and play guitar
 
 ### Connect with me:
