@@ -33,7 +33,6 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
     />
 </a>
-
 <a href="https://www.typescriptlang.org">
     <img
         alt="TypeScript"
@@ -41,7 +40,6 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
     />
 </a>
-
 <a href="https://reactjs.or/">
     <img
         alt="React"
@@ -58,30 +56,33 @@
 </a>
 
 
+
+
+
 <br />
 <br />
 
 ### Extra skills:
 
+<a href="https://phoenixframework.org">
+    <img
+        alt="Phoenix Framework Logo"
+        width="26px"
+        src="https://hexdocs.pm/phoenix/assets/logo.png"
+    />
+</a>
+<a href="https://elixir-lang.org">
+    <img
+        alt="Elixir Lang Logo"
+        width="26px"
+        src="https://avatars.githubusercontent.com/u/1481354?s=200&v=4"
+    />
+</a>
 <a href="https://nodejs.org/en/">
     <img 
         alt="Node.js"
         width="26px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-    />
-</a>
-<a href="https://nestjs.com">
-    <img
-        alt="Nest.js"
-        width="26px"
-        src="https://cdn.cybrhome.com/media/website/live/icon/icon_nestjs.com_f1a96b.png"
-    />
-</a>
-<a href="https://www.mongodb.com">
-    <img 
-        alt="MongoDB"
-        width="26px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
     />
 </a>
 <a href="https://www.rust-lang.org">
@@ -108,48 +109,3 @@
 
 <br />
 <br />
-
-### Tools:
-
-<a href="https://code.visualstudio.com">
-    <img 
-        alt="Visual Studio Code"
-        width="26px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-    />
-</a>
-<a href="https://www.jetbrains.com">
-    <img 
-        alt="JetBrains IntelliJ Idea Ultimate"
-        width="26px"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"
-    />
-</a>
-<a href="https://git-scm.com">
-    <img 
-        alt="Git"
-        width="26px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-    />
-</a>
-<a href="https://developer.chrome.com/docs/devtools/">
-    <img 
-        alt="Chrome Devtools"
-        width="26px"
-        src="https://pbs.twimg.com/profile_images/762579160099385344/w5MfsnMn_400x400.jpg"
-    />
-</a>
-<a href="https://www.mozilla.org/en-US/firefox/developer/?utm_source=firebug&utm_medium=lp&utm_campaign=switch&utm_content=landingpage">
-    <img
-        alt="Firefox for Developers"
-        width="26px" 
-        src="https://developer.mozilla.org/en-US/docs/Tools/logo-developer-quantum.png"
-    />
-</a>
-<a href="https://github.com">
-    <img
-        alt="GitHub"
-        width="26px"
-        src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
-    />
-</a>
