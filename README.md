@@ -2,7 +2,7 @@
 
 ## I'm a Master of Radio Engineering & Telecomunications and a software engineer!
 
-- 👨‍💻 I currently work as a software engineer at Noveo!
+- 👨‍💻 I currently work as a software engineer at Wellnuts!
 - 📚 Love learning programming languages
 - ⚡ Random fact: I love to sing and play guitar
 
