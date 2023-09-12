@@ -47,23 +47,6 @@
         src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"
     />
 </a>
-<a href="https://vuejs.org">
-    <img 
-        alt="Vue"
-        width="26px"
-        src="https://vuejs.org/images/logo.png"
-    />
-</a>
-
-
-
-
-
-<br />
-<br />
-
-### Extra skills:
-
 <a href="https://phoenixframework.org">
     <img
         alt="Phoenix Framework Logo"
@@ -76,6 +59,23 @@
         alt="Elixir Lang Logo"
         width="26px"
         src="https://avatars.githubusercontent.com/u/1481354?s=200&v=4"
+    />
+</a>
+
+
+
+
+
+<br />
+<br />
+
+### Extra skills:
+
+<a href="https://vuejs.org">
+    <img 
+        alt="Vue"
+        width="26px"
+        src="https://vuejs.org/images/logo.png"
     />
 </a>
 <a href="https://nodejs.org/en/">
