@@ -1,6 +1,6 @@
 ### Hi there, my name is Ilya 👋
 
-## I'm a Fullstack web developer. Thank you for visiting my profile!
+## I'm a Fullstack web developer
 
 - 👨‍💻 I currently work as a software engineer at Wellnuts!
 - 📚 Love learning programming languages and building different products using new technologies
@@ -109,3 +109,5 @@
 
 <br />
 <br />
+
+Thank you for visiting my profile!
