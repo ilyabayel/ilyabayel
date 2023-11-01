@@ -1,10 +1,10 @@
 ### Hi there, my name is Ilya 👋
 
-## I'm a Master of Radio Engineering & Telecomunications and a software engineer!
+## I'm a Fullstack web developer. Thank you for visiting my profile!
 
 - 👨‍💻 I currently work as a software engineer at Wellnuts!
-- 📚 Love learning programming languages
-- ⚡ Random fact: I love to sing and play guitar
+- 📚 Love learning programming languages and building different products using new technologies
+- ⚡ I maintain some small libraries like rescript-uuid, rescript-phoenix
 
 ### Connect with me:
 
