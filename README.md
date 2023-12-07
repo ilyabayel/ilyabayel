@@ -15,7 +15,7 @@
         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
     />
 </a>
-<a href="mailto:ilya@kozlov.dev">
+<a href="mailto:ilyabayaliyev@gmail.com">
     <img
         alt="ilya@kozlov.dev | Mail" width="26px"
         src="https://cdn.iconscout.com/icon/free/png-512/mail-1138-827052.png"
