@@ -8,16 +8,16 @@
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/ilyakozlovdev">
+<a href="www.linkedin.com/in/ilyabayaliyev">
     <img
-        alt="ilyakozlovdev | LinkedIn"
+        alt="ilyabayaliyev | LinkedIn"
         width="26px"
         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
     />
 </a>
 <a href="mailto:ilyabayaliyev@gmail.com">
     <img
-        alt="ilya@kozlov.dev | Mail" width="26px"
+        alt="ilyabayaliyev@gmail.com | Mail" width="26px"
         src="https://cdn.iconscout.com/icon/free/png-512/mail-1138-827052.png"
     />
 </a>
