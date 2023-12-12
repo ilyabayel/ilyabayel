@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<a href="www.linkedin.com/in/ilyabayaliyev">
+<a href="https://www.linkedin.com/in/ilyakozlovdev/">
     <img
         alt="ilyabayaliyev | LinkedIn"
         width="26px"
