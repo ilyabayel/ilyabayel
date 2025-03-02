@@ -1,14 +1,14 @@
 ### Hi there, my name is Ilya 👋
 
-## I'm a Fullstack web developer
+## I'm a Backend web developer
 
 - 👨‍💻 I currently work as a software engineer at Wellnuts!
 - 📚 Love learning programming languages and building different products using new technologies
-- ⚡ I maintain some small libraries like rescript-uuid, rescript-phoenix
+- ⚡ I maintain some small libraries like rescript-uuid, rescript-phoenix, shapex
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/ilyakozlovdev/">
+<a href="https://www.linkedin.com/in/ilyabayaliyev/">
     <img
         alt="ilyabayaliyev | LinkedIn"
         width="26px"
@@ -26,27 +26,6 @@
 
 ### Key skills:
 
-<a href="https://javascript.com">
-    <img
-        alt="JavaScript"
-        width="26px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-    />
-</a>
-<a href="https://www.typescriptlang.org">
-    <img
-        alt="TypeScript"
-        width="26px"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
-    />
-</a>
-<a href="https://reactjs.or/">
-    <img
-        alt="React"
-        width="26px"
-        src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"
-    />
-</a>
 <a href="https://phoenixframework.org">
     <img
         alt="Phoenix Framework Logo"
@@ -61,49 +40,32 @@
         src="https://avatars.githubusercontent.com/u/1481354?s=200&v=4"
     />
 </a>
-
-
-
-
+<a href="https://javascript.com">
+    <img
+        alt="JavaScript"
+        width="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+    />
+</a>
+<a href="https://www.typescriptlang.org">
+    <img
+        alt="TypeScript"
+        width="26px"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+    />
+</a>
 
 <br />
 <br />
 
 ### Extra skills:
 
-<a href="https://vuejs.org">
-    <img 
-        alt="Vue"
-        width="26px"
-        src="https://vuejs.org/images/logo.png"
-    />
-</a>
-<a href="https://nodejs.org/en/">
-    <img 
-        alt="Node.js"
-        width="26px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-    />
-</a>
-<a href="https://www.rust-lang.org">
-    <img 
-        alt="Rust"
-        width="26px"
-        src="https://www.rust-lang.org/static/images/rust-logo-blk.svg"
-    />
-</a>
-<a href="https://flutter.dev">
+
+<a href="https://reactjs.or/">
     <img
-        alt="Rust"
+        alt="React"
         width="26px"
-        src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png"
-    />
-</a>
-<a href="https://dart.dev">
-    <img 
-        alt="Rust"
-        width="26px"
-        src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4"
+        src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"
     />
 </a>
 
