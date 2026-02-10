@@ -4,7 +4,8 @@
 
 - 👨‍💻 I currently work as a software engineer at Wellnuts!
 - 📚 Love learning programming languages and building different products using new technologies
-- ⚡ I maintain some small libraries like rescript-uuid, rescript-phoenix, shapex
+- ⚡ I maintain some small libraries like rescript-uuid, rescript-phoenix, essence-ui
+- 👷‍♂️ Building components library for Phoenix
 
 ### Connect with me:
 
