@@ -1,6 +1,6 @@
-### Hi there, my name is Ilya 👋
+### Hi there, my name is Ilya [eel-YAH] 👋
 
-## I'm a Backend web developer
+## I'm a Senior Elixir Software Engineer
 
 - 👨‍💻 I currently work as a software engineer at Wellnuts!
 - 📚 Love learning programming languages and building different products using new technologies
