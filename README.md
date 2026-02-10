@@ -23,7 +23,7 @@
     />
 </a>
 
-<br />
+<br>
 
 ### Key skills:
 
@@ -63,9 +63,6 @@
     />
 </a>
 
-<br />
-<br />
-
 ### Extra skills:
 
 
@@ -77,7 +74,6 @@
     />
 </a>
 
-<br />
-<br />
+<br>
 
 Thank you for visiting my profile!
